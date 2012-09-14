@@ -1,0 +1,41 @@
+body {
+  color:black;
+  background-color: #fffdf9;
+  font: normal normal 16px Arial, sans-serif;
+  margin: 0px auto 0px auto;
+  max-width:50em;
+  text-align:center;
+}
+
+
+section {
+  margin-bottom: 3em;
+}
+
+h1 {
+  font: normal bold 26px Georgia,Serif;
+  letter-spacing: 1px;
+  margin: 3em 0;
+}
+
+h2 {
+  border-bottom : solid 1px gray;
+  margin: 0 0 1em 0;
+}
+
+p {
+  padding: 0 2em;
+}
+
+#footer p {
+  font-size: 80%;
+  margin-bottom: 5px;
+}
+
+a {
+  color:black;
+}
+
+a:hover {
+  color:gray;
+}
